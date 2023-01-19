@@ -49,7 +49,7 @@ p{
     font-size: large;
     text-align: center;
 }
-.DDDBR{
+.home{
     display: flex;
     flex-direction: row;
 align-items: flex-end;
@@ -63,7 +63,7 @@ align-items: flex-end;
 .info p{
     color: white;
 }
-#skills{
+.skills{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -71,17 +71,17 @@ align-items: flex-end;
   margin-left: 25%
   
 }
-#skills h2 {
+.skills h2 {
 
     color:  #54be90;
 }
-#port {
+.port {
     display: flex;
    align-items: center;
     padding: 5%;
     margin-top: 3rem;
     }
-    #port h2 {
+    .port h2 {
 
         color:  white;
     }
@@ -105,43 +105,43 @@ align-items: flex-end;
         background-color: aquamarine;
     }
     
-#about{
+.about{
     display: flex;
    align-items: center;
   
     padding: 5%;
   }
-  #about h2 {
+  .about h2 {
    
         color:  #54be90;
     }
     
-  #find{
+  .find{
     display: flex;
     justify-content: center;
     padding: 5%;
     background-color: black;
   }
-  #find h2 {
+  .find h2 {
 
         color:  white;
     }
-#contact{
+.contact{
     display: flex;
     justify-content: center;
     padding: 5%;
    
   }
-  #contact h2 {
+  .contact h2 {
   
         color:  white;
     }
-#nice {
+.nice {
     display: flex;
     justify-content: center;
     padding: 5%;
   }
-  #nice h2 {
+  .nice h2 {
 
         color:  #54be90;
     }
